@@ -1,6 +1,6 @@
 #files
-client_unit_test.py/
-server_unit_test.py/
+client_unit_test.py
+server_unit_test.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
